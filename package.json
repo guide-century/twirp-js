@@ -10,7 +10,7 @@
   },
   "main": "./src/index-node.js",
   "browser": "./dist/main.js",
-  "repository": "https://github.com/thechriswalker/twirp-js",
+  "repository": "https://github.com/guide-century/twirp-js",
   "author": "Chris Walker",
   "license": "MIT",
   "private": false,
